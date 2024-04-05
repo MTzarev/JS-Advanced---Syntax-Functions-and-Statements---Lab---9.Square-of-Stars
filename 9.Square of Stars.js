@@ -6,4 +6,4 @@ function squareOfStars(num) {
     console.log(`${line}\n`.repeat(num));
 }
 
-squareOfStars("miro");
+squareOfStars("text");
