@@ -6,4 +6,4 @@ function squareOfStars(num) {
     console.log(`${line}\n`.repeat(num));
 }
 
-squareOfStars("text");
+squareOfStars("5");
